@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/indoor-air-pollution/static/js/main.e6762242.js",
-    "static/media/vocsensor.jpg": "/indoor-air-pollution/static/media/vocsensor.9c0f6b494c7866717865.jpg",
-    "static/media/pmsensor.webp": "/indoor-air-pollution/static/media/pmsensor.03b66b77a79bbbbf63c9.webp",
-    "static/media/pmsensor2.webp": "/indoor-air-pollution/static/media/pmsensor2.03b66b77a79bbbbf63c9.webp",
-    "static/media/co2sensor.webp": "/indoor-air-pollution/static/media/co2sensor.e86005e5e45a626434ad.webp",
-    "index.html": "/indoor-air-pollution/index.html",
-    "main.e6762242.js.map": "/indoor-air-pollution/static/js/main.e6762242.js.map"
+    "main.js": "/static/js/main.a3c1334a.js",
+    "static/media/vocsensor.jpg": "/static/media/vocsensor.9c0f6b494c7866717865.jpg",
+    "static/media/pmsensor.webp": "/static/media/pmsensor.03b66b77a79bbbbf63c9.webp",
+    "static/media/pmsensor2.webp": "/static/media/pmsensor2.03b66b77a79bbbbf63c9.webp",
+    "static/media/co2sensor.webp": "/static/media/co2sensor.e86005e5e45a626434ad.webp",
+    "index.html": "/index.html",
+    "main.a3c1334a.js.map": "/static/js/main.a3c1334a.js.map"
   },
   "entrypoints": [
-    "static/js/main.e6762242.js"
+    "static/js/main.a3c1334a.js"
   ]
 }
